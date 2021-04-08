@@ -632,10 +632,10 @@
     mobiledoc-dom-renderer "0.7.0"
     mobiledoc-text-renderer "0.4.0"
 
-"@tryghost/mw-session-from-token@0.1.16":
-  version "0.1.16"
-  resolved "https://registry.yarnpkg.com/@tryghost/mw-session-from-token/-/mw-session-from-token-0.1.16.tgz#0716018dff68b98a737c0ab534fe51e3bc687041"
-  integrity sha512-x9eTl5OrQXEh31gZKGArROLgp07Hw+Wgr8K8hMA0FdEJTuzcDAaos0oXBrgQ+EXzobuuT0xZvCGiERuSN14avw==
+"@tryghost/mw-session-from-token@0.1.17":
+  version "0.1.17"
+  resolved "https://registry.yarnpkg.com/@tryghost/mw-session-from-token/-/mw-session-from-token-0.1.17.tgz#f28eab032bff2e1bd02ad8b6fb089339595fff9e"
+  integrity sha512-BKepO+nFmIOA01tpN0lnyl1U6PGDtZcY44+NhX8FGVoJMTvf5vmezDIZ9R7/XKTOQEdsqUQm6kOp5B7il/e0/A==
 
 "@tryghost/pretty-cli@1.2.15":
   version "1.2.15"
